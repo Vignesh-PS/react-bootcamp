@@ -1,0 +1,7 @@
+.page-title, .page-links{
+  text-align: center;
+}
+
+.page-links a{
+  padding-left: 1rem;
+}
